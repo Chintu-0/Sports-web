@@ -210,10 +210,10 @@
     </script>
   <script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool@latest"></script>
   <script>
-alert("Join @allinonereborn on Telegram")
+alert("Join @M3uWorld on Telegram")
 </script>
 <div style="background-color: #2ecc71; padding: 10px; text-align: center;">
-        <a href="https://t.me/allinonereborn" target="_blank">
+        <a href="https://t.me/M3uWorld" target="_blank">
           <button id="joinTelegramButton" style="background-color: white; border-radius: 5px; border: 2px solid #2ecc71; color: #2ecc71; font-weight: bold; padding: 5px 10px;">Join Telegram</button>
         </a>
     </div>
